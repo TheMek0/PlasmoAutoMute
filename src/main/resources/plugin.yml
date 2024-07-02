@@ -1,0 +1,4 @@
+name: PlasmoAutoMute
+version: '${project.version}'
+main: tech.themeko.plasmoautomute.PlasmoAutoMute
+api-version: '1.16'
